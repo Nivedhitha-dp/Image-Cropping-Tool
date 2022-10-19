@@ -1,4 +1,4 @@
-# online-cropping-tool
+# Online-Image-cropping-tool
 An Image cropping tool developed for Indigilab - A Japanese Company
 
 
